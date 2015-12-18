@@ -57,7 +57,7 @@ Email Communication Ministries at news@disciples.org for information on how to o
 
 **Will this break my web site? What if it does?**
 
-Every effort has been made to ensure compatibility with release versions of Wordpress v4.1.1 and up. If the plugin is causing 
+Every effort has been made to ensure compatibility with release versions of Wordpress v4.3 and up. If the plugin is causing 
 undesired effects on your web site, please document the problems (including screen shots, error codes, etc.) and email this information
 to news@disciples.org. Then uninstall the plugin to prevent further problems. Communication Ministries will attempt to find a solution
 but cannot make guarantees that this plugin will work with all Wordpress installations and exempts itself from any potential damage or 
