@@ -1,0 +1,13 @@
+/* Congregation Search Plugin Styles */
+table#congregation-results {width:100%;display:table;}
+#congregation-search-form #congregation-query {padding: 10px;font-size: 18px;border-top-left-radius: 10px;border-bottom-left-radius: 10px;border: 1px solid #ccaa99;box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);width: 400px;}
+#congregation-search-form #congregation-distance {display:none;}
+#congregation-search-form #congregation-submit {font-size: 18px;padding: 10px;border: 1px solid rgb(173, 29, 29);border-top-right-radius: 10px;border-bottom-right-radius: 10px;background-image: linear-gradient(rgb(241, 49, 73) 0%, rgb(173, 29, 29) 100%);color: #ffffff;text-shadow: 1px 1px 3px rgba(0,0,0,0.3);}
+table#congregation-results tbody {width:100%;}
+table#congregation-results td {line-height:1.6em;}
+table#congregation-results tr th {background-image: linear-gradient(rgb(228, 228, 228) 0%, rgb(255, 255, 255) 100%);text-shadow: 1px 1px 1px rgb(255,255,255);color: #DF1E32;}
+#map-canvas {width:100%;min-height:400px;display:inline-block;box-shadow: 3px 5px 10px rgba(0,0,0,0.2);vertical-align:top;margin-bottom:10px;}
+#congregation-paging-links a.disabled-paging-link {display:none;}
+#congregation-paging-links a.page-link {display: inline-block;padding: 2px 8px;border: 1px solid #e1e1e1;border-radius: 3px;box-shadow: 1px 1px 3px rgba(0,0,0,0.1);text-decoration:none;}
+#congregation-paging-links a.current-page {font-weight: bold;text-decoration: none;border-width: 2px;padding-top: 5px;padding-bottom: 5px;font-size:1.1em;}
+p.congregation-search-error, .congregation-search-error { display:block; padding:10px; border:1px solid #eeeeee;box-shadow:1px 1px 3px rgba(0,0,0,0.1);font-weight:bold;margin: 10px 0 !important;color:#990000;}

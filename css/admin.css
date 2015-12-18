@@ -1,0 +1,68 @@
+/* Congregation Search Admin CSS */
+
+/* forms */
+
+.admin-search #congregation-search-form #congregation-query {padding: 3px 5px;font-size: 14px;border-radius: 0;border: 1px solid #ddd;box-shadow:inset 0 1px 2px rgba(0,0,0,.07);width: 400px;}
+.admin-search #congregation-search-form #congregation-distance {display:inline-block;}
+.admin-search #congregation-search-form #congregation-submit {font-size: 13px;padding: 0 10px 1px;border: 1px solid #ccc;border-radius: 3px; color: #555; text-shadow:none;background-image:none;background:#f7f7f7;}
+
+.congregation-edit-form {border:1px solid #cccccc;background:#fafafa;padding:10px;}
+.congregation-edit-form div {display:block;}
+.congregation-edit-form div label {display:inline-block;padding:3px;margin:3px 6px;width:130px;}
+.congregation-edit-form div label:after {content:':';}
+.congregation-edit-form div input {display:inline-block;padding:3px;margin:3px 6px;}
+.congregation-edit-form .edit-form div span {display: block;padding: 0px;font-size: .8em;line-height: 1.4em;margin: 0px 40px 0 156px;}
+
+.congregation-edit-form .congregation-pin input {width:60px;}
+.congregation-edit-form .congregation-name input {width: 300px;}
+.congregation-edit-form .congregation-phone input {width: 120px;}
+.congregation-edit-form .congregation-email input {width: 250px;}
+.congregation-edit-form .congregation-website input {width: 250px;}
+.congregation-edit-form .congregation-region input {width: 250px;}
+.congregation-edit-form .congregation-postalcode input,
+.congregation-edit-form .congregation-latitude input,
+.congregation-edit-form .congregation-longitude input {width: 100px;}
+.congregation-savecancel-buttons {padding:10px 8px;margin-top:5px;}
+.congregation-savecancel-buttons a.secondary-button {padding:3px;display:inline-block;margin-left:6px;}
+
+.SingleCongregation {cursor:pointer;}
+
+div.admin-search {margin-top:20px;}
+div.admin-search form select {margin-top:-4px;}
+
+label.error { font-weight: bold; color:#CC0000; width:auto;}
+label.error:after {content:' ' !important;}
+input.error { border:2px solid #CC0000; }
+
+.delete-button {color:#990000;}
+.delete-button:hover {color:#cc0000;}
+
+#GeocodeAddress {display: block; margin: 15px 0 4px 160px;}
+
+.congregation-donotautoupdate {margin-top: 15px;}
+
+/* admin messages */
+
+#message p#Message {float:left;width:80%;}
+#message p#Dismiss {float:right;width:19%;font-size:11px;text-align:right;}
+#message.hidden {display:none;}
+
+.form-table {margin-left:20px;}
+
+/* settings */
+
+#CheckUpdateFileLocation {display:inline-block;}
+#CheckUpdateFileLocation #Result, #CheckUpdateFileLocation #VerifyUpdateFileURL {display:inline-block;}
+#CheckUpdateFileLocation #Result {margin-right:5px;}
+
+#StartUpdateNow {display:inline-block;}
+#StartUpdateNow #UpdateStatus, #CheckUpdateFileLocation #UpdateLink {display:inline-block;}
+#StartUpdateNow #UpdateStatus {margin-left:5px;}
+
+.locked-congregation {background-color:#F5E2D5;}
+
+/* log view */
+div#LogViewer {display:block;height:auto;}
+div#LogViewerWindow { height:400px;overflow:scroll;display:block;border-collapse:collapse;border: solid 1px #eee;background: #fafafa;box-shadow: inset 2px 2px 8px rgba(0,0,0,0.1);}
+div#LogViewerWindow table {width:100%;}
+div#LogViewerWindow table tr td {font-size: .8em;border-bottom: 1px solid #eeeeee;padding: 1px 0 1px 10px;}
