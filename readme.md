@@ -1,5 +1,5 @@
-
 === Disciples of Christ Congregation Search ===
+
 Contributors: Christopher G. Higgins
 Donate link: http://example.com/
 Tags: search, congregations
@@ -16,6 +16,7 @@ A Wordpress plugin that provides a search function for all CC(DOC) congregations
 A Wordpress plugin that provides a search function for all CC(DOC) congregations in the United State and Canada. Data can be maintained automatically or through an update service directly from the Year Book and Directory. 
 
 Features: 
+
 	- Templated shortcode setup to allow flexible results design
 	- Automatic update features that schedules download and update of congregational data
 	- Google Mapping and Geocoding services that allow for accurate location of congregations
@@ -50,11 +51,14 @@ but cannot make guarantees that this plugin will work with all Wordpress install
 liability resulting from it's use. 
 
 == CHANGE LOG ==
-= 1.0.0 =
-* Release Version.
 
-= 1.0.1 =
-* Bug fixes
+1.0.0
+	
+	- Release Version.
+
+1.0.1
+	
+	- Bug fixes
 
 
 
