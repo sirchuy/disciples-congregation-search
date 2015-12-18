@@ -30,6 +30,10 @@ Features:
 3. Provide a Google Mapping JavaScript API (v3) key in the 'Settings' section of the plugin.
 4. Place the [congregation_search_form] in a page/post to show the search function.
 
+== COPYRIGHT AND TRADEMARKED MATERIAL ==
+
+The logo of the Christian Church (Disciples of Christ) - otherwise known as "the Chalice" - is a trade mark of the Christian Church (Disciples of Christ) in the United States and Canada. Permission is given for it's use in this software as intended by its author. No modification or use beyond it's original intent is authorized without the express written permission of Communication Ministries within the Office of the General Minister and President of the Christian Church (Disciples of Christ). Email news@disciples.org with any questions about the Chalice and its use.
+
 == FREQUENTLY ASKED QUESTIONS ==
 
 = Can I restrict the search to a specific region or regions? =
