@@ -1,15 +1,13 @@
 === Disciples of Christ Congregation Search ===
 
-Contributors: Christopher G. Higgins
-Donate link: http://example.com/
-Tags: search, congregations
-Requires at least: 4.0.0
-Tested up to: 4.4
-Stable tag: 4.4
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-A Wordpress plugin that provides a search function for all CC(DOC) congregations in the United State and Canada. 
+	- Contributors: Christopher G. Higgins
+	- Donate link: http://disciples.org/
+	- Tags: search, congregations, Disciples, church
+	- Requires at least: Wordpress 4.3.0
+	- Tested up to: 4.4
+	- Stable tag: 4.4
+	- License: GPLv2 or later
+	- License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == DESCRIPTION ==
 
